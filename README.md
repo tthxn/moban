@@ -1,4 +1,4 @@
-# 个人收藏的好看的模板
+# 个人收藏的好看的模板（Bootstrap3）
 
 # gentelella
 
